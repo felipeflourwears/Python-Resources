@@ -9,7 +9,7 @@ if(y>x):
 if(x==y):
     print("Los dos numeros son iguales")
 
-
+#else/elif/if
 x1=input("Introduce el primer numero: ")
 y2=input("Introduce el segundo numero: ")
 

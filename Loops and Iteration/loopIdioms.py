@@ -13,6 +13,7 @@ for i in arrayNum:
 print("Number max: ", numLargest)
 
 #Counting in a loop
+#Para tener un counter variable empieza en 0 
 rork=0
 print('Before', rork)
 for thing in [9, 41, 12, 3, 74, 15]:
