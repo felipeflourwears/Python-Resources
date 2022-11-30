@@ -1,0 +1,5 @@
+vocal=str(input("Dame uns vocal: "))
+letra=str(input("Dame uns letra: "))
+vocal.lower()
+letra.upper()
+print(letra+vocal)
