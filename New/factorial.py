@@ -18,3 +18,5 @@ def calcFactorial(fact):
 num=pedirDatos()
 factorial=calcFactorial(num)
 print("Factorial de ", num, "es: ", factorial)
+
+        
